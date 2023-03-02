@@ -18,3 +18,9 @@ From the first day of work, I asked myself questions about consumer preferences 
 In order to answer them, it took me three months to collect the data. I got a table with 200+ rows with columns: id, name, date, sex, grade, purchase.
 
 In the notebook from this directory you will see answers to such questions and perhaps for yourself (or your school) you can increase sales based on my **data-driven decisions**.
+
+
+**Stack:**
+
+* Python (Pandas, Seaborn)
+* Jupiter Notebook
