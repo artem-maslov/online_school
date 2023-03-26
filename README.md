@@ -1,4 +1,4 @@
-# my_online_school
+# online_school
 
 <div align="center">
 
